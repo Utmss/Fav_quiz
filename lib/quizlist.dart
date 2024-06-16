@@ -58,7 +58,6 @@ class QuizListScreen extends StatelessWidget {
     );
   }
 }
-
 class FavoriteQuizzesScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
